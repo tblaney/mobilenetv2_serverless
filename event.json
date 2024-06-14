@@ -1,0 +1,4 @@
+{
+    "input_url": "https://github.com/pytorch/hub/raw/master/images/dog.jpg",
+    "n_predictions": 5
+}
